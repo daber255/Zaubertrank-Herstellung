@@ -1,7 +1,7 @@
 {
-  "id": "potion-crafting-and-gathering",
-  "title": "Potion Crafting & Gathering",
-  "description": "Collating piccolo917's Potion Crafting & Gathering supplement for use in Foundry with theripper93's premium modules",
+  "id": "Zaubertrankherstellung",
+  "title": "Zaubertrankherstellung",
+  "description": "Collating piccolo917's Potion Crafting & Gathering supplement. Übersetzt von daber255",
   "version": "This is auto replaced",
   "library": "false",
   "manifestPlusVersion": "1.2.0",
@@ -12,9 +12,9 @@
   },
   "authors": [
     {
-      "name": "Action Jay",
-      "url": "https://github.com/action-jay",
-      "discord": "action.jay#4322"
+      "name": "daber255",
+      "url": "",
+      "discord": ""
     }
   ],
   "scripts": [
